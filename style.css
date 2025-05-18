@@ -23,3 +23,19 @@ h2 {
 p {
     margin-bottom: 1.5rem;
 }
+
+.button {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #26428b;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #3a5ad9;
+}
