@@ -1,0 +1,17 @@
+{
+  "manifest.title": {
+    "ru": "Манифест NovaCiv",
+    "en": "Manifesto of NovaCiv",
+    "de": "Manifest von NovaCiv"
+  },
+  "manifest.block1": {
+    "ru": "Мир, в котором мы родились — не окончательная версия.",
+    "en": "The world we were born into is not the final version.",
+    "de": "Die Welt, in die wir geboren wurden, ist keine endgültige Version."
+  },
+  "manifest.block2": {
+    "ru": "Мы больше не хотим жить по лекалам прошлого. Мы создаём новое.",
+    "en": "We no longer wish to live by the templates of the past. We are building something new.",
+    "de": "Wir wollen nicht mehr nach den Mustern der Vergangenheit leben. Wir erschaffen Neues."
+  }
+}
